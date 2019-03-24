@@ -1,2 +1,2 @@
 # learnPython
-This repository is my notes from learn python book
+This repository are my notes from learn python book
